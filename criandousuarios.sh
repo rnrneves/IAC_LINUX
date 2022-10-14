@@ -1,5 +1,7 @@
 #!/bin/bash
 
+#Developed BY Raimundo Neves - rnrneves
+
 echo "Criando os diretorios.."
 
 mkdir /publico
